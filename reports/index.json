@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-073029-s10t",
+      "title": "Fàelyn",
+      "commanders": [
+        "Fàelyn"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-05T14:30:29.000Z",
+      "dateEnd": "2026-08-05T17:47:43.000Z",
+      "dateLabel": "8/5/2026, 7:30:29 AM - 8/5/2026, 10:47:43 AM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20260805-073029-s10t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260804-180908-hc25",
       "title": "Majestic Dreamspear",
       "commanders": [
