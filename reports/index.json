@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-200501-rtm2",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-09T03:05:01.000Z",
+      "dateEnd": "2026-08-09T05:35:48.000Z",
+      "dateLabel": "8/8/2026, 8:05:01 PM - 8/8/2026, 10:35:48 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20260808-200501-rtm2",
+      "summary": {
+        "borderlandsPct": 0.0625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260808-175432-rdmo",
       "title": "Tràsh Pandà",
       "commanders": [
