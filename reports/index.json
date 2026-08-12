@@ -1,8 +1,36 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "refined-cyan",
   "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260811-181647-w5i7",
+      "title": "Zyk Feels Regarded",
+      "commanders": [
+        "Zyk Feels Regarded"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-12T01:16:47.000Z",
+      "dateEnd": "2026-08-12T02:48:44.000Z",
+      "dateLabel": "8/11/2026, 6:16:47 PM - 8/11/2026, 7:48:44 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20260811-181647-w5i7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20260808-200501-rtm2",
       "title": "Tràsh Pandà",
