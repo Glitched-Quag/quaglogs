@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-191107-77m3",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-05T02:11:07.000Z",
+      "dateEnd": "2026-09-05T03:24:19.300Z",
+      "dateLabel": "9/4/2026, 7:11:07 PM - 9/4/2026, 8:24:19 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20260904-191107-77m3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260814-191031-p3lw",
       "title": "Tràsh Pandà",
       "commanders": [
