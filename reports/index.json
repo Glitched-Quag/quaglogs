@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-180309-jj6l",
+      "title": "Asharom, Quwuaggan",
+      "commanders": [
+        "Asharom",
+        "Quwuaggan"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-09-20T01:03:09.000Z",
+      "dateEnd": "2026-09-20T03:12:12.212Z",
+      "dateLabel": "9/19/2026, 6:03:09 PM - 9/19/2026, 8:12:12 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20260919-180309-jj6l",
+      "summary": {
+        "borderlandsPct": 0.9523809523809523,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260905-174702-0asx",
       "title": "Asharom",
       "commanders": [
