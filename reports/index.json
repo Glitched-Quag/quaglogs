@@ -5,6 +5,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261007-175524-00m2",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-08T00:55:24.000Z",
+      "dateEnd": "2026-10-08T02:07:43.285Z",
+      "dateLabel": "10/7/2026, 5:55:24 PM - 10/7/2026, 7:07:43 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261007-175524-00m2",
+      "summary": {
+        "borderlandsPct": 0.8157894736842105,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261005-181015-y1gl",
       "title": "Crippling Anquish, Eryn Tyrell",
       "commanders": [
