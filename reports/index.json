@@ -5,6 +5,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261017-175923-fwu8",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-10-18T00:59:23.000Z",
+      "dateEnd": "2026-10-18T03:20:51.247Z",
+      "dateLabel": "10/17/2026, 5:59:23 PM - 10/17/2026, 8:20:51 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261017-175923-fwu8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 44,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261007-175524-00m2",
       "title": "Majestic Dreamspear",
       "commanders": [
