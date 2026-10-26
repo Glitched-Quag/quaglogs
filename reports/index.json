@@ -5,6 +5,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261025-174618-ozi9",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "D612DE11-1DBA-F111-BB1F-12683E7B69EB",
+        "name": "Once A Vip Always A",
+        "tag": "ViP"
+      },
+      "dateStart": "2026-10-26T00:46:18.000Z",
+      "dateEnd": "2026-10-26T02:56:45.995Z",
+      "dateLabel": "10/25/2026, 5:46:18 PM - 10/25/2026, 7:56:45 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261025-174618-ozi9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261019-182606-7tc0",
       "title": "Crippling Anquish",
       "commanders": [
