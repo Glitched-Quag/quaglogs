@@ -5,6 +5,44 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261028-180721-lbi3",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-29T01:07:21.000Z",
+      "dateEnd": "2026-10-29T02:05:36.162Z",
+      "dateLabel": "10/28/2026, 6:07:21 PM - 10/28/2026, 7:05:36 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261028-180721-lbi3",
+      "summary": {
+        "borderlandsPct": 0.9714285714285714,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261025-174618-ozi9",
       "title": "Asharom",
       "commanders": [
