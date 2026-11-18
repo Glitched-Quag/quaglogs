@@ -3,7 +3,40 @@
   "axiTheme": "glass",
   "glass": true,
   "glassSurfaces": true,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
   "entries": [
+    {
+      "id": "20261117-180303-a64w",
+      "title": "Ruthless Dreamspear",
+      "commanders": [
+        "Ruthless Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-11-18T02:03:03.000Z",
+      "dateEnd": "2026-11-18T03:26:45.022Z",
+      "dateLabel": "11/17/2026, 6:03:03 PM - 11/17/2026, 7:26:45 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261117-180303-a64w",
+      "publishedBy": "Glitched-Quag",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261028-180721-lbi3",
       "title": "Majestic Dreamspear",
