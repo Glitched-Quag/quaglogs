@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-174456-ah3j",
+      "title": "Asharom",
+      "commanders": [
+        "Asharom"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-11-23T01:44:56.000Z",
+      "dateEnd": "2026-11-23T04:20:36.903Z",
+      "dateLabel": "11/22/2026, 5:44:56 PM - 11/22/2026, 8:20:36 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261122-174456-ah3j",
+      "publishedBy": "Glitched-Quag",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20261117-180303-a64w",
       "title": "Ruthless Dreamspear",
       "commanders": [
