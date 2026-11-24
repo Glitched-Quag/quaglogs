@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-182907-6den",
+      "title": "Crippling Anquish",
+      "commanders": [
+        "Crippling Anquish"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-24T02:29:07.000Z",
+      "dateEnd": "2026-11-24T03:32:42.888Z",
+      "dateLabel": "11/23/2026, 6:29:07 PM - 11/23/2026, 7:32:42 PM",
+      "url": "https://Glitched-Quag.github.io/quaglogs/?report=20261123-182907-6den",
+      "publishedBy": "Glitched-Quag",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          },
+          {
+            "name": "World vs World",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261122-174456-ah3j",
       "title": "Asharom",
       "commanders": [
